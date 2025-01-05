@@ -79,8 +79,7 @@ cd PISC_ASS_CRUD_Operation
 ## **Screenshots**
 
 ### Home Page
-![Home Page](![screenshot-localhost_3000-2025_01_05-20_20_18](https://github.com/user-attachments/assets/3330c910-60e1-4d2b-ae3d-7ad6845bc853)
-)
+![screenshot-localhost_3000-2025_01_05-20_20_18](https://github.com/user-attachments/assets/8bbc9b17-c3aa-40f0-a987-b7b62fb68f16)
 
 
 ## **License**
