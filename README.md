@@ -99,7 +99,7 @@ Contributions are welcome! Please fork this repository and create a pull request
 For any queries, feel free to contact:
 
 - **Author**: Kishan
-- **Email**: [your-email@example.com](mailto:kishann.cpj@gmail.com)
+- **Email**: [kishann.cpj@gmail.com](mailto:kishann.cpj@gmail.com)
 - **GitHub**: [Kishan0101](https://github.com/Kishan0101)
 
 ---
