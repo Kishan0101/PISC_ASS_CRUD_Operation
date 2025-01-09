@@ -34,7 +34,7 @@ const App = () => {
   };
 
   const handleDelete = async (id) => {
-    await axios.delete(`http://localhost:4000//api/employees/${id}`);
+    await axios.delete(`http://localhost:4000/api/employees/${id}`);
     fetchEmployees();
   };
 
